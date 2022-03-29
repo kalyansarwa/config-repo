@@ -1,4 +1,4 @@
 
 apis:
   stock-entries:
-    base: "http://stock-entries/stockEntries"
+    base: "http://localhost:7070/stockEntries"
